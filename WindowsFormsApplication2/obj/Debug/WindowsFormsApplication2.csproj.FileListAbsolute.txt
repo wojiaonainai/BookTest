@@ -1,0 +1,24 @@
+c:\users\ddn\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\ddn\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\ddn\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\ddn\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\ddn\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\ddn\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\ddn\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\ddn\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\ddn\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ChooseForm.resources
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BookChangeForm.resources
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BookAdd.resources
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BookRevise.resources
+C:\Users\DDN\Desktop\MyWindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.RevisedPswd.resources
